@@ -18,7 +18,8 @@
     "react/self-closing-comp": 0,
     "node/no-deprecated-api": 1,
     "node/no-missing-import": 2,
-    "node/no-missing-require": 2
+    "node/no-missing-require": 2,
+    "no-useless-escape": 0
   },
   "plugins": [
     "babel",

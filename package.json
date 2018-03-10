@@ -35,6 +35,9 @@
   },
   "homepage": "https://github.com/danielgary/node-media-organizer#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.5",
     "yargs": "^11.0.0"
   },
   "devDependencies": {

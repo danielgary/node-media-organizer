@@ -1,0 +1,71 @@
+{
+    "providers": {
+        "tvdb": {
+            "apikey": "CC65646B195F8EF0",
+            "username": "danielgary",
+            "userkey": "6B14DAD38161D898"
+        }
+    },
+    "minFileSize": 100000000,
+    "videoExtensions": [
+        "mv4",
+        "mp4",
+        "avi",
+        "wmv",
+        "mpg",
+        "mpeg",
+        "flv",
+        "mkv",
+        "mov",
+        "m4v"
+    ],
+    "excludeCharacters": [
+        "[",
+        "]",
+        "^"
+    ],
+    "excludeWords": [
+        "720p",
+        "1080p",
+        "BluRay",
+        "H264",
+        "AAC",
+        "RARBG",
+        "WEB-DL",
+        "AC3",
+        "EVO",
+        "deejayahmed",
+        "reenc",
+        "1ch",
+        "dl",
+        "web",
+        "HEVC",
+        "PSA",
+        "SWESUB",
+        "ETHD",
+        "AAC2",
+        "WEBRip",
+        "HDRip",
+        "10bit",
+        "8ch",
+        "X265",
+        "HDTV",
+        "2CH",
+        "DD5",
+        "YFN",
+        "ETTV",
+        "AVS",
+        "TBS",
+        "WWWSCENETIMECOM",
+        "SCENETIME",
+        "TORRENTING",
+        "TORRENT",
+        "ENSUB",
+        "XVID",
+        "TVSMASH",
+        "PIMPRG",
+        "FUMETTV",
+        "SRIGGA",
+        "CRIMSONRARBG"
+    ]
+}
